@@ -1,5 +1,6 @@
 # ArtiPub
-
+ > 本项目已经去掉源项目 发布时自带的广告脚注的功能(毕竟每篇文章中有脚注,会让人不太开心),尽可能与源仓库同步的更新,并在其基础上添加新的内容.
+ 
 ![](https://img.shields.io/github/release/crawlab-team/artipub)
 ![](https://img.shields.io/github/last-commit/crawlab-team/artipub)
 ![](https://img.shields.io/github/issues/crawlab-team/artipub)
@@ -176,7 +177,10 @@ npm run start:backend
 - [ ] [百度百家号](https://baijiahao.baidu.com)
 - [ ] [51CTO](https://51cto.com)
 - [ ] [开发者头条](https://toutiao.io)
-- [ ] 微信公众号
+- [ ] [微信公众号](https://mp.weixin.qq.com/)
+- [ ] [腾讯云社区](https://cloud.tencent.com/developer)
+- [ ] [个人网站WorldPress](https://www.tcpgnl.com)
+- [ ] [WorldPress官网](https://www.wordpress.com/‎)
 
 ## 贡献代码
 
