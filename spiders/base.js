@@ -96,9 +96,9 @@ class BaseSpider {
       })
     })
 
-    // 脚注内容
+    // 脚注内容 // 删除脚注
     this.footerContent = {
-      richText: `<br><b>本篇文章由一文多发平台<a href="https://github.com/crawlab-team/artipub" target="_blank">ArtiPub</a>自动发布</b>`,
+      richText: ``,
     }
   }
 

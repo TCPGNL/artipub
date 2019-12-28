@@ -60,7 +60,8 @@ if (isAntDesignProPreview) {
   plugins.push([
     'umi-plugin-ga',
     {
-      code: 'UA-72788897-6',
+      // code: 'UA-72788897-6',
+      code: '', // 解决追踪问题
     },
   ]);
   plugins.push([
